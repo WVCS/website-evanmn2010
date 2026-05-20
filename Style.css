@@ -2,6 +2,7 @@
 
 body {
 	background-color: #7D90A1;
+	border: dotted 20px hsla(219,100%,68%,1.00);
 }
 
 h1 {
